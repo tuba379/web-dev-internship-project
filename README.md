@@ -20,9 +20,7 @@ The tasks follow **W3C standards**, **WCAG 2.2 accessibility guidelines**, and t
 4. Task 4: JavaScript Interactivity → Dark mode & form validation  
 5. Task 5: Portfolio Project → Accessible portfolio site + reflection write-up  
 
-## Hosting
-Live demo will be available at:  
-👉 [https://tuba379.github.io/web-dev-internship/](https://tuba379.github.io/web-dev-internship/)
+
 
 ## License
 This project is for **educational purposes** under the Web Development Internship program.
